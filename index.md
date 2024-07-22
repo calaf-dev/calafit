@@ -3,6 +3,10 @@ layout: default
 title: CALAFIT - Tu asistente personal de salud y bienestar
 ---
 
+<head>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
+
 # Bienvenido a CALAFIT
 
 ## Tu asistente personal de salud y bienestar
