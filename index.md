@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CALAFIT - Tu asistente personal de salud y bienestar
+title: CALAFIT
 ---
 
 <head>
