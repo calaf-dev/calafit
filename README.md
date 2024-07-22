@@ -1,3 +1,1 @@
-# calafit-landing
-
-Hello-world
+# calafit
